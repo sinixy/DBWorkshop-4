@@ -1,11 +1,11 @@
 # DBWorkshop-4
 Workshop 4
 
-Порядок запуску:
-1.create.sql
-2.populate.sql
-3.procedure.sql
-4.function.sql
-5.package.sql
-6.trigger.sql
-7.run.sql
+Порядок запуску:<br>
+1.create.sql<br>
+2.populate.sql<br>
+3.procedure.sql<br>
+4.function.sql<br>
+5.package.sql<br>
+6.trigger.sql<br>
+7.run.sql<br>
