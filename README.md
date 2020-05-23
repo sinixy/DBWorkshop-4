@@ -3,7 +3,7 @@ Workshop 4
 
 ERD\conceptual.pdf - концептуальна модель<br>
 ERD\logical.pdf - логічна модель<br>
-ERD\physical.pdf - фізична модель (скріншон с datamodeler)<br><br>
+ERD\physical.pdf - фізична модель (скріншот с datamodeler)<br><br>
 Порядок запуску:<br>
 1.create.sql<br>
 2.populate.sql<br>
